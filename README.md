@@ -10,15 +10,15 @@ Each folder has files **input.txt**, **problem.txt** and **code.cpp**. Questions
 
 Difficulty Level: **1/10**
 
-1 - Multiple of 3 and 5
-2 - Even Fibonacci Series
-3 - Largest Prime Factor
-4 - Largest Palindrome Product
-5 - Smallest Multiple
-6 - Sum Square Distance
-7 - Nth Prime
+- 1 - Multiple of 3 and 5
+- 2 - Even Fibonacci Series
+- 3 - Largest Prime Factor
+- 4 - Largest Palindrome Product
+- 5 - Smallest Multiple
+- 6 - Sum Square Distance
+- 7 - Nth Prime
 
-***Rest to be uploaded in time**
+***Rest to be uploaded in time***
 
 ## Credits
 
