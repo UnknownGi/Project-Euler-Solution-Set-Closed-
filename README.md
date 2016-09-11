@@ -17,6 +17,9 @@ Difficulty Level: **1/10**
 - 5 - Smallest Multiple
 - 6 - Sum Square Distance
 - 7 - Nth Prime
+- 8 - Largest Product in Series
+- 9 - Special Pythagorean Triplet
+- 10 - Summation of Primes
 
 ***Rest to be uploaded in time***
 
