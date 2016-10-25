@@ -1,5 +1,7 @@
 # Project Euler Solution Set
 
+## Repository Closed: Everything Shifted to: https://github.com/danz1ka/Competitive-Programming
+
 ## Description
 
 Solution to Project Euler Problem in C++. 
